@@ -1,4 +1,4 @@
-# Who exactly elected Biden in the 2020 U.S. Presidential Election?
+# Who exactly elected Biden?
 
 ## Overview
 
@@ -25,6 +25,14 @@ In the longer term, the struggle for the soul of the Democratic Party rages on. 
 ## The Approach
 
 In the following visualizations, I seek to shed some light on where the gains in votes came from for each candidate and how the margins in various counties have shifted since the 2016 Election. Note that both candidates gained a significant number of votes across the board in the 2020 Election due to the increased turnout. Moreover, due to the lack of more detailed data (eg. at the level of individual voting stations) and the secrecy of the ballot, it is not possible to tell the difference between voters that have changed their votes and 2020 voters that did not vote in 2016. As such, this analysis will focus only on vote gains and shifts in support on a county-wide level.  
+
+## The Data
+
+Two key sources of data were used for these visualizations. First, the 2020 election data was scraped from NBC's website which provided breakdowns of votes by county. Meanwhile, 2016 election data was used to categorised counties and analyse shifts in voting patterns and was taken from opendatasoft [here][https://public.opendatasoft.com/explore/dataset/usa-2016-presidential-election-by-county/table/?disjunctive.state]. 
+
+## Categorising the counties
+
+This analysis is aimed at distinguishing Biden's gains in Democratic bases, where the progressive wing is popular, from his gains in other areas. The categorisation of the types of counties cannot be done using 2020 Election Data, so 2016 data was used instead for this purpose. Here, Democratic counties are defined as counties where Clinton won by 10 or more percentage points in 2016, Republican counties are counties where Trump won by 10 or more percentage points in 2016 and swing counties are counties where the margin was less than 10 percentage points. 
 
 
 
