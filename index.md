@@ -32,7 +32,7 @@ Two key sources of data were used for these visualizations. First, the 2020 elec
 
 ## Categorising the counties
 
-This analysis is aimed at distinguishing Biden's gains in Democratic bases, where the progressive wing is popular, from his gains in other areas. The categorisation of the types of counties cannot be done using 2020 Election Data, so 2016 data was used instead for this purpose. Here, Democratic counties are defined as counties where Clinton won by 10 or more percentage points in 2016, Republican counties are counties where Trump won by 10 or more percentage points in 2016 and swing counties are counties where the margin was less than 10 percentage points. 
+This analysis is aimed at distinguishing Biden's gains in Democratic bases, where the progressive wing is popular, from his gains in other areas. The categorisation of the types of counties cannot be done using 2020 Election Data, so 2016 data was used instead for this purpose. Here, "blue" counties (Democrat-leaning counties) are defined as counties where Clinton won by 10 or more percentage points in 2016, "red" counties (Republican-leaning counties) are counties where Trump won by 10 or more percentage points in 2016 and "swing" counties are counties where the margin was less than 10 percentage points. 
 
 
 
