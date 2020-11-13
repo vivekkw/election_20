@@ -1,15 +1,6 @@
-## Welcome to GitHub Pages
+## U.S. Elections 2020 Analysis 
 
-You can use the [editor on GitHub](https://github.com/vivekkw/election_20/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+This is a quick post-election analysis that was done during the week of elections. I seek to do a simple analysis of the votes in swing states that helped Biden win the election. 
 
 # Header 1
 ## Header 2
