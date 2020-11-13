@@ -36,15 +36,15 @@ This analysis is aimed at distinguishing Biden's gains in Democratic bases, wher
 
 
 
-![Biden vote gains](https://github.com/vivekkw/election_20/blob/main/biden_votes.png)
+![Biden vote gains](https://github.com/vivekkw/election_20/raw/main/biden_votes.png)
 
 ![Both vote gains](https://github.com/vivekkw/election_20/raw/main/both_votes.png)
 
-![Midwest Map](https://github.com/vivekkw/election_20/blob/main/midwest.png)
+![Midwest Map](https://github.com/vivekkw/election_20/raw/main/midwest.png)
 
-![Georgia Map](https://github.com/vivekkw/election_20/blob/main/georgia.png)
+![Georgia Map](https://github.com/vivekkw/election_20/raw/main/georgia.png)
 
-![Arizona Map](https://github.com/vivekkw/election_20/blob/main/arizona.png)
+![Arizona Map](https://github.com/vivekkw/election_20/raw/main/arizona.png)
 
 
 # Header 1
