@@ -44,15 +44,38 @@ The story in Georgia and Arizona, however, is fairly different. In Georgia, the 
 
 ## Comparing both candidates' gains
 
+However, when we look at the vote gains by both candidates by county type, the story actually shifts. Those vote gains in the red counties that Biden achieved were actually outdone by Trump! So the vote gap in red counties actually grew from 2016 to 2020, although Biden improved on the percentage of votes in these counties going to Democrats. On the contrary, in Georgia, Pennsylvania, Wisconsin and Michigan, the Biden's gains from blue counties exceeded Trump's gains from red counties. This was especially the case in Georgia, which is testament to the work of Stacey Abrams in getting urban voters to turn out. 
+
+Moreover, in these four states, Biden increased his margin in the swing counties. This combination of votes was enough (in Georgia and Wisconsin, just enough!) for Biden to overcome Trump's lead coming in from 2016. 
+
 ![Both vote gains](https://github.com/vivekkw/election_20/raw/main/both_votes.png)
+
+The last state that we have not discussed is Arizona. Here, Trump's gains in red counties outpaced Biden's gains in blue counties. However, both of these figures were dwarfed by the votes from swing counties. This is likely the case because Arizona's biggest county by far is Maricopa county, which is a swing county saw more than twice as many votes as the next biggest county. This county plays a huge role because of its size and Biden won Arizona because he won Maricopa county, overturning Trump's 2016 lead and his gains in red counties. 
+
+Overall, then, it is clear that Biden's victory was won by a diverse coalition. Turnout in liberal strongholds was critical, but so was Biden's ability to win over voters in more conservative areas and swing counties. In fact, he probably would not have won if he had failed to win over either of these groups. This might prove to be a challenge when he starts to govern. 
+
+I would also note that Trump's belief prior to the election that he was in a good position to win was not entirely misplaced. The number of Trump voters increased across the board in all types of counties, especially in the states he won by large margins in 2016, so he might have reasonably concluded that he was in a better position based on his rallies on the ground. What he probably did not know was how well the Democrats had mobilised and how many voters in swing counties might have been turned away by him. 
+
+It is also important to point out that even though Trump improved his vote margin in red counties and Biden improved on the Democrat vote margin in blue counties, this does not actually indicate that these swing state counties are getting more polarised. On the contrary, given that Trump's gains over Biden are not as significant as his typical margins in red counties, these red counties are getting less red. The average voting pattern across counties can be better understood by looking at the shift in Democrat or Republican votes as a percentage of the total votes in each county. I will look further into these shifts in the maps below. 
+
+## Mapping out shifts in counties' political positions
+
+The maps below show the shift in the percentage of voters that voted for Trump from 2016 to 2020. 
 
 ![Midwest Map](https://github.com/vivekkw/election_20/raw/main/midwest.png)
 
+In Pennsylvania, we can see a general shift towards Biden across the entire state. Of particular interest is Philadelphia county where Trump actually gained on Biden, in spite of the reports of high Democratic turnout there. In Michigan and Wisconsin, there is some polarization occuring, with several counties moving sharply to Trump or Biden, but this represents only a handful of counties. 
+
 ![Georgia Map](https://github.com/vivekkw/election_20/raw/main/georgia.png)
+
+In Georgia, there was a significant blue shift around the Atlanta Metropolitan Area. As we alluded to before, this is like due to the effect that Stacey Abrams had in turning out urban, non-white voters. 
 
 ![Arizona Map](https://github.com/vivekkw/election_20/raw/main/arizona.png)
 
+Finally, Arizona saw only moderate shifts towards Biden on a county level, though as I pointed out earlier, the moderate shift in Maricopa county was sufficient to swing the state. Meanwhile a couple of counties further out from Phoenix shifted further towards Trump, though these are much smaller counties. 
 
 ## Conclusion
 
 These results seem to suggest a rather difficult path forward for the Democratic Party in the near future, though it favours the moderates for the time being. The analysis seems to indicate that both supporters of the progressive wing and moderate swing voters were absolutely critical to Biden's success in this election. Without a significant boost from either group, Trump would likely have won the election. This means that neither side of the Democratic Party is dominant and neither can lead without the support of the other. In light of these insights, it is clear that a Presidential candidate from the progressive wing is certain to lose an election even to a candidate like Trump. Therefore, a moderate must continue to lead the party. However, this moderate must somehow be able to win the support of the progressive wing without losing his/her moderate position. 
+
+Moreover, a less extreme and more polished Republican candidate might be able to win over more swing voters and this might easily give the Republican a victory in a future election. Of course, one might disagree with this assessment since a less extreme and more polished Republican might not be able to turn out conservative voters the way Trump has done. 
